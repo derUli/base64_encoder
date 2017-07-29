@@ -1,0 +1,13 @@
+{
+	"source": "extend",
+	"version": "1.0",
+	"embed": false,
+	"custom_acl": [
+		"base64_encoder"
+	],
+	"admin_permission": "base64_encoder",
+	"controllers": {
+		"Base64Encoder": "Base64Encoder.php"
+	},
+	"main_class": "Base64Encoder"
+}
